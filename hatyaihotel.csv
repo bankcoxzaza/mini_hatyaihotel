@@ -1,7 +1,11 @@
-NAME, Hotel,Type,Rooms,Adults,Children,Email,Total,Price,ID No.,PIN
-nattawut,The Train Hotel Mixed Dormitory,Type x Mixed Dormitory,Rooms x 2,Adults x 6,Children x 0,bankcoxzaza@gmail.com,90090909,1836.12,201819263,6623
-okoktest,Buri Sriphu HoteHoneymoon Suite,Type x Honeymoon Suite,5,Adults x 10,Children x 0,bank@gmail.com,84454572,83166.82,201820576,2106
-fgh,The Train Hotel Mixed Dormitory,Type x Mixed Dormitory,1,Adults x 1,Children x 11,g,0,306.02,201823685,9073
-t1,TONAOI GRAND HOTCorrner Deluxe,Type x Corrner Deluxe,5,Adults x 41,Children x 1,t1,1,25941.08,201824217,6259
-t2,S Hatyai Hotel,Type x Junior Suite,5,Adults x 5,Children x 5,t2,0,35498.32,201824217,6259
-ityoiro,PS Extra Hotel,Twin Bed,5,Adults x 8,Children x 1,banaskdnks@gnakm.com,0804545487,30896.25,201828192,2638
+NAME, Hotel,Type,Rooms,Adults,Children,ID Passport,Email,Phone,Check In,Check Out,Bill No.,PIN,Pirice
+nattawut,The Train Hotel Mixed Dormitory,Type x Mixed Dormitory,Rooms x 2,Adults x 6,Children x 0,bankcoxzaza@gmail.com,90090909,1836.12,201819263,6623,,,
+okoktest,Buri Sriphu HoteHoneymoon Suite,Type x Honeymoon Suite,5,Adults x 10,Children x 0,bank@gmail.com,84454572,83166.82,201820576,2106,,,
+fgh,The Train Hotel Mixed Dormitory,Type x Mixed Dormitory,1,Adults x 1,Children x 11,g,0,306.02,201823685,9073,,,
+t1,TONAOI GRAND HOTCorrner Deluxe,Type x Corrner Deluxe,5,Adults x 41,Children x 1,t1,1,25941.08,201824217,6259,,,
+t2,S Hatyai Hotel,Type x Junior Suite,5,Adults x 5,Children x 5,t2,0,35498.32,201824217,6259,,,
+ityoiro,PS Extra Hotel,Twin Bed,5,Adults x 8,Children x 1,banaskdnks@gnakm.com,804545487,30896.25,201828192,2638,,,
+okokok,PS Extra Hotel,Twin Bed,2,Adults x 2,Children x 1,sdad,11555445,14124,20189286,3799,,,
+Nattawut Sangprom,PS Extra Hotel,Twin Bed,1,Adults x 2,Children x 0,-1459403378,bankcoxzaza@gmail.com,907139307,0/2/2018,1/15/2018,0,201812036,9989
+nattawut Sangprom,Buri Sriphu HoteDeluxe Room,Deluxe Room,1,Adults x 1,Children x 1,1.91E+12,bankcoxzaza@gmail.com,899741895,1/1/2018,2/1/2018,201814230,1190,.2f
+okokok testtest,Hatyai SignatureDeluxe Twin Bed,Deluxe Twin Bed,Room x 1,Adults x 1,Children x 1,1.9098E+12,banknckasdkad@gail.com,899741895,1/1/2018,2/1/2018,201815500,784,1650.15
